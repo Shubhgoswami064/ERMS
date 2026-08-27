@@ -3,3 +3,8 @@ EmployeName: Shubh Goswami
 Department: CSE
 Designation: Student
 Salary: 10
+EmployeeID:001
+EmployeName: Asim Dalla
+Department: CSE
+Designation: Student
+Salary: 0.01 penne

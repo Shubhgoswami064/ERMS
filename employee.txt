@@ -1,5 +1,5 @@
-EmployeeID:01
+EmployeeID:001
 EmployeName: Shubh Goswami
 Department: CSE
-Designation: NA
-Salary: NA
+Designation: Student
+Salary: 10

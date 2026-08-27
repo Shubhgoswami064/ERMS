@@ -8,3 +8,8 @@ EmployeName: Asim Dalla
 Department: CSE
 Designation: Student
 Salary: 0.01 penne
+EmpId: 002
+name: name
+depart: depart
+designation :design
+salary: salary
